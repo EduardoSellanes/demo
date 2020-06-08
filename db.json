@@ -1,4 +1,5 @@
 {
+"response": {
   "contacts": [{
           "avatar" : "https://example.com/avatar.png",
           "largeAvatar" : "https://example.com/largeAvatar.png",
@@ -59,4 +60,5 @@
           "zip": "11150"
       }
   ]
+}
 }
