@@ -25,33 +25,27 @@
           "zip": "11111"
       },
       {
-          "avatar" : "https://example.com/avatar2.png",
-          "largeAvatar" : "https://example.com/largeAvatar2.png",
-          "birthday": "1977-07-20",
+          "avatar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/400px-Monet_-_Impression%2C_Sunrise.jpg",
+          "largeAvatar" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/800px-Monet_-_Impression%2C_Sunrise.jpg",
+          "birthday": "1840-11-14",
           "checksum": "AAC1490F888CB9C9",
-          "city": "Prague",
+          "city": "Paris",
           "contactEntries": [{
                   "entryId": "tel:0",
-                  "label": "home",
+                  "label": "internal",
                   "type": "tel",
-                  "uri": "555-610-8888"
+                  "uri": "1009"
               },
-              {
-                  "entryId": "tel:1",
-                  "label": "work",
-                  "type": "tel",
-                  "uri": "+40 774 935 236"
-              }
           ],
           "contactId": "AAAAD15C-7964-4A9B-8AC4-10D7CFB7983C",
-          "country": "Czech Republic",
-          "countryCode": "cz",
-          "displayName": "Josef Novotny",
-          "fname": "Josef",
-          "lname": "Novotny",
-          "notes": "Exists only for the purpose of testing contacts",
-          "street": "14 Dlouha",
-          "zip": "11150"
+          "country": "France",
+          "countryCode": "fr",
+          "displayName": "Claude Monet",
+          "fname": "Claude",
+          "lname": "Monet",
+          "notes": "",
+          "street": "1872 Impression, soleil levant",
+          "zip": "11111"
       }
   ]
 }
