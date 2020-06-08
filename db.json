@@ -1,34 +1,28 @@
 {
 "response": {
   "contacts": [{
-          "avatar" : "https://example.com/avatar.png",
-          "largeAvatar" : "https://example.com/largeAvatar.png",
-          "birthday": "1998-06-14",
+          "avatar" : "https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+          "largeAvatar" : "https://cdn.britannica.com/24/189624-050-F3C5BAA9/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg",
+          "birthday": "1990-01-01",
           "checksum": "DFC1490F899CB9FD",
           "city": "Tiburon",
           "contactEntries": [{
                   "entryId": "tel:0",
-                  "label": "home",
+                  "label": "internal",
                   "type": "tel",
-                  "uri": "555-610-6679"
-              },
-              {
-                  "entryId": "tel:1",
-                  "label": "work",
-                  "type": "tel",
-                  "uri": "+420 276 285 602"
+                  "uri": "1001"
               }
           ],
           "contactId": "E94CD15C-7964-4A9B-8AC4-10D7CFB791FD",
-          "country": "USA",
-          "countryCode": "us",
-          "displayName": "David Taylor",
-          "fname": "David",
-          "lname": "Taylor",
-          "notes": "Plays on Cole's Little League Baseball Team",
+          "country": "ITALY",
+          "countryCode": "it",
+          "displayName": "Leonardo da Vinci",
+          "fname": "Leonardo",
+          "lname": "Da Vinci",
+          "notes": "",
           "state": "CA",
-          "street": "1747 Steuart Street",
-          "zip": "949203"
+          "street": "1503 La Gioconda",
+          "zip": "11111"
       },
       {
           "avatar" : "https://example.com/avatar2.png",
