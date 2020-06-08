@@ -1,14 +1,62 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "contacts": [{
+          "avatar" : "https://example.com/avatar.png",
+          "largeAvatar" : "https://example.com/largeAvatar.png",
+          "birthday": "1998-06-14",
+          "checksum": "DFC1490F899CB9FD",
+          "city": "Tiburon",
+          "contactEntries": [{
+                  "entryId": "tel:0",
+                  "label": "home",
+                  "type": "tel",
+                  "uri": "555-610-6679"
+              },
+              {
+                  "entryId": "tel:1",
+                  "label": "work",
+                  "type": "tel",
+                  "uri": "+420 276 285 602"
+              }
+          ],
+          "contactId": "E94CD15C-7964-4A9B-8AC4-10D7CFB791FD",
+          "country": "USA",
+          "countryCode": "us",
+          "displayName": "David Taylor",
+          "fname": "David",
+          "lname": "Taylor",
+          "notes": "Plays on Cole's Little League Baseball Team",
+          "state": "CA",
+          "street": "1747 Steuart Street",
+          "zip": "949203"
+      },
+      {
+          "avatar" : "https://example.com/avatar2.png",
+          "largeAvatar" : "https://example.com/largeAvatar2.png",
+          "birthday": "1977-07-20",
+          "checksum": "AAC1490F888CB9C9",
+          "city": "Prague",
+          "contactEntries": [{
+                  "entryId": "tel:0",
+                  "label": "home",
+                  "type": "tel",
+                  "uri": "555-610-8888"
+              },
+              {
+                  "entryId": "tel:1",
+                  "label": "work",
+                  "type": "tel",
+                  "uri": "+40 774 935 236"
+              }
+          ],
+          "contactId": "AAAAD15C-7964-4A9B-8AC4-10D7CFB7983C",
+          "country": "Czech Republic",
+          "countryCode": "cz",
+          "displayName": "Josef Novotny",
+          "fname": "Josef",
+          "lname": "Novotny",
+          "notes": "Exists only for the purpose of testing contacts",
+          "street": "14 Dlouha",
+          "zip": "11150"
+      }
+  ]
 }
